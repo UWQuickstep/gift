@@ -1,4 +1,4 @@
 # gift
-Gather Insights From (Internet of) Things
+Gather Insights From Things
 
-In Beta (internal for UW for now)
+In Beta (internal to UW for now)
